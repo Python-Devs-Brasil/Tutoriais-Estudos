@@ -9,5 +9,5 @@ Repositório para testes, estudos e tutoriais.
 **Intermediario** - Códigos de nível intermediário
 * basic-unit-test `Python + Unit Test (Testes Unitários) -> ` http://goo.gl/O3IaPb
 
-**Avançado** - Repositório para estudo de algoritmos avançados
+**Avançado** - Repositório para estudo avançado
 * basic-sqlalchemy-mysql `SqlAlchemy ORM + MySQL -> ` http://goo.gl/MkJx2a
